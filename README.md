@@ -26,4 +26,22 @@
 
  - There is no significant difference between the freight costs of the 3 shipping companies employed by Northwind. 
  
+ 
+# Conclusions:
+Dicsounts increase sales on a per order basis but the level of discount is not significant.
+Northwind makes much greater revenue selling alcoholic beverages than non-alcoholic beverages but on a per order basis there is not
+The Seattle office makes 2.5x the revenue of the London office, but on a per sale basis they do not vary significantly
+No significant difference in freight costs between the 3 shipping companies.
+
+### Recommendations:
+Offer more discounts on products but keep them low.
+Expand the non-alcoholic beverage product line.
+Explore why the team in London is not making as many sales, use the Seattle office as a model.
+Continue to negotiate rates with the 3 companies to make shipping as cost-efficient as possible.
+
+### Further Work:
+Are discounts more effective on certain products or regions?
+Market research into beverage sales and trends. What new non-alcoholic products are likely to be successful?
+Study sales by region and office - assess whether sales teams should be assembled in other cities.
+Effectiveness of shipping companies by region or product. Is there any statistical difference in shipping speeds?
 
